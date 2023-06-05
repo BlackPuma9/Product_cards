@@ -27,10 +27,9 @@ body {
   background-color: #c4c4c4;
   width: 130px;
   height: 130px;
-  margin: auto;
+  margin: 0 auto 10px auto;
   box-sizing: border-box;
   position: relative;
-  margin-bottom: 10px;
 }
 
 .card_img-text {
